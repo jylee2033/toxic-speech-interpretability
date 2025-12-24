@@ -1,0 +1,28 @@
+pip
+wheel
+setuptools
+numpy
+notebook
+jupyter_contrib_nbextensions
+jupyter_nbextensions_configurator
+
+# HuggingFace + PyTorch ecosystem
+transformers
+torch
+datasets
+tqdm
+sacrebleu
+trl
+peft
+bitsandbytes
+
+# Load HateXplain JSON
+requests
+pandas
+
+# Metrics for evaluation
+scikit-learn
+
+# Optional but highly recommended for interpretability analysis
+lime
+shap
